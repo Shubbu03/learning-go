@@ -1,0 +1,25 @@
+# Compiled Binaries
+*.exe
+*.out
+*.dll
+*.so
+
+# Vendor Directory
+/vendor/
+
+# Module Cache
+/pkg/
+
+# IDE and Editor Directories
+.vscode/
+.idea/
+*.swp
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.test
+
+# Environment and Config Files
+*.env
+config.json
